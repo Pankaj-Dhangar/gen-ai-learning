@@ -1,7 +1,7 @@
 # panda help to handle data in tabular form
 import pandas as pd
 # matplotlib helps to visualize data
-import matplotlib.pyplot as plts
+import matplotlib.pyplot as plt
 # Numpy helps to handlle numerical , scientific, differential data
 import numpy as np
 
